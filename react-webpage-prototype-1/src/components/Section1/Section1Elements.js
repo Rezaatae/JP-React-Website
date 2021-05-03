@@ -69,6 +69,7 @@ export const Section1Card1 = styled.div`
     transition: all 0.2s ease-in-out;
     opacity: 0.7;
 `
+// test
 
 export const Section1Card2 = styled.div`
     background: #000;
